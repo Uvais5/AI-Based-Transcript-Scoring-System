@@ -29,8 +29,8 @@ A Streamlit-based AI tool to analyze and score spoken communication skills from 
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/ai-communication-scorer.git
-    cd ai-communication-scorer
+    git clone https://github.com/Uvais5/AI-Based-Transcript-Scoring-System.git
+    cd AI-Based-Transcript-Scoring-System
     ```
 
 2.  **Create a Virtual Environment** (Recommended)
@@ -80,6 +80,4 @@ A Streamlit-based AI tool to analyze and score spoken communication skills from 
 - `rubric_loader.py`: Utility to load rubric data from Excel.
 - `requirements.txt`: Project dependencies.
 
-## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
